@@ -1,16 +1,3 @@
 # dictionaryproject
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![qemu-system-x86_64_oGCey9JJT5](https://user-images.githubusercontent.com/107813645/214951008-45442863-154d-46e6-8da8-21669d8a7db4.png)
